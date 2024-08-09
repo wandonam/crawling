@@ -1,5 +1,4 @@
 pandas
-supabase
 selenium
 beautifulsoup4
 tqdm
